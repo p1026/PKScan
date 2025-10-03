@@ -1,0 +1,1 @@
+/aichat/api/follow_card/

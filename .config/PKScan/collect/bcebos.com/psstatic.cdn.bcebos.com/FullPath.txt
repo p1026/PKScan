@@ -1,0 +1,4 @@
+/aife/static/
+/basics/chat/
+/basics/aichat/
+/aladdin/

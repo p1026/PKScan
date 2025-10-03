@@ -1,0 +1,13 @@
+data.is_generate=false
+data.is_danger=0
+data.value=用AI助手回答：aaaa
+data.default_follow_type=FOLLOW_CHAT
+data.rewrite_query=aaaa
+status=0
+data.btn_text=去AI搜索
+logid=9842193880835017563
+data.qa_list_follow_type=FOLLOW_CHAT
+cacheKey=pc_right_follow_18018984409273631910
+token=5656e1c25b3c5cd2c0a35d8c4a129ce6
+query=aaaa
+logid=9817299446280367126

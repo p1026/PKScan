@@ -1,0 +1,9 @@
+*google.*
+*github.*
+*shodan.io
+*fofa.info
+*adblockplus.org
+*bing.com
+*gov.cn
+*winxin.qq.com
+127.0.0.1

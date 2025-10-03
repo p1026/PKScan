@@ -1,0 +1,6 @@
+aife
+basics
+static
+chat
+aichat
+aladdin

@@ -1,0 +1,1 @@
+/static/clickstream-mis/dist/static/js/

@@ -1,0 +1,1 @@
+x-bce-process=image/format,f_webp
